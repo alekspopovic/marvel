@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Lato&display=swap");
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  background: linear-gradient(
+        45deg,
+        rgba(0, 110, 193, 0.3),
+        rgba(0, 115, 138, 0.1)
+      )
+      no-repeat fixed center,
+    url("./images/spiderman.jpg") no-repeat fixed center;
+  background-size: cover;
+}
