@@ -10,10 +10,10 @@ This repository contains the full, finished project code. If you're interested i
 
 This project aims to help you:
 
-🔍 Search through Marvel's character database.
-📚 Fetch information about the comic books featuring those characters.
-📱 Create a responsive design to ensure your app looks great on any device.
-🛠️ Set up project and API credentials in Vite, making the development process straightforward.
+- 🔍 Search through Marvel's character database.
+- 📚 Fetch information about the comic books featuring those characters.
+- 📱 Create a responsive design to ensure your app looks great on any device.
+- 🛠️ Set up project and API credentials in Vite, making the development process straightforward.
 
 ## Getting Started 🚀
 
